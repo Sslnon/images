@@ -1,3 +1,2 @@
 # images
-the place store pic.
-/图床
+the place store pic/图床
